@@ -100,6 +100,11 @@ CETV5
 无线新闻
 TVBS新闻
 TVBS欢乐
+popc
+PopC
+TVB Plus
+tvN
+TVN
 凤凰中文
 凤凰资讯
 凤凰香港
@@ -117,6 +122,7 @@ Viutv
 东森电影
 Now剧集
 Now华剧
+Now星影台
 靖天资讯
 靖天電影台
 星卫娱乐
@@ -132,10 +138,15 @@ RTHK 36
 澳门莲花
 MYTV Super 18台
 ROCK Action
-TVN
 娛樂新聞台(HK)
 新加坡中文
 黃金翡翠台
+TVBS-新聞台
+華視
+龍華日韓台
+龍華電影台
+美亞電影台(HK)
+TVBS-新聞台
 
 🎬电影频道,#genre#
 CHC家庭影院
