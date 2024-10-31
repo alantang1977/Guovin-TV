@@ -100,11 +100,9 @@ CETV5
 无线新闻
 TVBS新闻
 TVBS欢乐
-popc
 PopC
 TVB Plus
 tvN
-TVN
 凤凰中文
 凤凰资讯
 凤凰香港
@@ -146,7 +144,6 @@ TVBS-新聞台
 龍華日韓台
 龍華電影台
 美亞電影台(HK)
-TVBS-新聞台
 
 🎬电影频道,#genre#
 CHC家庭影院
